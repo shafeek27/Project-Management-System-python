@@ -1,0 +1,15 @@
+Setting Up Flask:
+pip install flask flask_sqlalchemy flask_marshmallow
+Flask App Structure:
+project_management/
+    ├── app.py
+    ├── models.py
+    ├── schemas.py
+    ├── routes/
+        ├── projects.py
+        ├── tasks.py
+        ├── teams.py
+        ├── notifications.py
+    ├── config.py
+    └── __init__.py
+
