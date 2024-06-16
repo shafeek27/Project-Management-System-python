@@ -1,0 +1,9 @@
+src/
+    ├── components/
+        ├── ProjectList.js
+        ├── ProjectDetail.js
+        ├── TaskList.js
+        ├── TaskDetail.js
+    ├── App.js
+    ├── index.js
+    └── api.js
